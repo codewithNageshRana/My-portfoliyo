@@ -144,7 +144,7 @@ button:nth-child(2):hover{
 
 .design .circle:nth-child(2){
     width: 17rem;
-    background-image: url(portimage.jpg);
+    background-image: url("portimage.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     border: .5rem solid rgb(241, 238, 221);
